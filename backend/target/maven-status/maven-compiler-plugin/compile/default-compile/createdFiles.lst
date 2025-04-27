@@ -1,0 +1,16 @@
+dev\caloramp\buste\Controllers\BusteController.class
+dev\caloramp\buste\Services\BustaServiceImpl.class
+dev\caloramp\buste\BusteApplication.class
+dev\caloramp\buste\Repositories\ClienteRepository.class
+dev\caloramp\buste\Services\ClienteServiceImpl.class
+dev\caloramp\buste\Models\Busta.class
+dev\caloramp\buste\ServletInitializer.class
+dev\caloramp\buste\Controllers\ClientiController.class
+dev\caloramp\buste\Models\Cliente.class
+dev\caloramp\buste\Configurations\WebConfig.class
+dev\caloramp\buste\Controllers\FrontendController.class
+dev\caloramp\buste\Services\BustaService.class
+dev\caloramp\buste\Services\ClienteService.class
+dev\caloramp\buste\DTOs\BustaRequest.class
+dev\caloramp\buste\Configurations\SecurityConfig.class
+dev\caloramp\buste\Repositories\BustaRepository.class
